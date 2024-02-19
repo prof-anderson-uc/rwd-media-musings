@@ -1,0 +1,188 @@
+/*---------------------------------------
+	SITE: UCBA eMedia Musings
+---------------------------------------*/
+
+
+/* GLOBAL SETTINGS
+---------------------------------------*/
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	
+}
+	
+div.wrapper {
+
+}
+
+img {
+
+}
+
+
+/* HEADER
+---------------------------------------*/
+	
+header {
+
+}
+
+
+header div.sitename { /* ← contains both the h1 and h2 */
+
+}
+
+header h1 {
+
+}
+
+header h1 a {
+
+}
+
+header h2 {
+
+}
+
+
+
+/* MAIN NAVIGATION 
+---------------------------------------*/	
+
+nav.topnav { /* ← entire navigation area */
+
+}
+
+nav.topnav ul {
+	list-style-type: none;
+	display: flex;
+}
+
+nav.topnav li {
+
+}
+
+nav.topnav a {
+	padding: 1em 2em;
+	text-transform: uppercase;
+	display: block;
+	text-decoration: none;
+	color: black; /* ← you can change this */
+}
+
+nav.topnav a:hover {
+	background-color: ghostwhite; /* ← you can change this */
+	border-radius: 2em;
+}
+
+
+
+/* HOMEPAGE LAYOUT
+---------------------------------------*/	
+main.homepage {
+
+}
+
+article.blog {
+
+}
+
+article.blog h2 { /* ← blog heading */
+
+}
+
+article.blog p { /* ← blog text */
+
+}
+
+main.homepage aside { /* ← both asides */
+
+}
+
+main.homepage aside.recent {
+
+}
+
+main.homepage aside.links {
+
+}
+
+main.homepage aside h3 { /* ← h3s in asides */
+
+}
+
+main.homepage aside ul { /* ← lists in the asides */
+
+}
+
+main.homepage aside li { /* ← items in the aside lists */
+
+}
+
+main.homepage aside li a { /* ← links in the asides */
+
+}
+
+main.homepage aside li a:hover { 
+
+}
+
+
+
+/* CAMPUS AREA
+---------------------------------------*/
+
+section.campus	{
+
+}	
+
+section.campus section { /* ← all 6 of the building sections */
+
+}
+
+section.campus h3 {
+
+}
+
+section.campus figure {
+
+}
+
+section.campus img {
+	border: 5px solid ghostwhite; /* ← you can change this */
+	box-shadow: 2px 2px 5px #959595; /* ← you can change this */
+}
+
+section.campus figcaption {
+
+}
+
+
+
+/* FOOTER
+---------------------------------------*/
+
+footer {
+
+}
+
+footer p { 
+
+}
+
+
+/* Don't add any media queries yet.
+   You will add them for the next part of this assignment */ 
+
+/* TABLET
+---------------------------------------*/
+
+
+
+
+/* PHONE
+---------------------------------------*/
+
